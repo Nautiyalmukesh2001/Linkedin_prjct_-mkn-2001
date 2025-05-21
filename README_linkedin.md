@@ -79,16 +79,6 @@ This schema captures key aspects of LinkedIn's ecosystem:
 - **1:M** — Posts → Reactions, Comments  
 - **1:M** — User → Messages (as sender/receiver)
 
----
-
-## 🗃️ Folder Structure
-
-```
-├── linkedin_product_dissection.pdf
-├── linkedin_schema.sql
-├── linkedin_er_diagram.png
-└── README.md 👈
-```
 
 ---
 
